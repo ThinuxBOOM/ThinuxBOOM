@@ -39,11 +39,15 @@ A/L graduate heading into PPE / Economics. I build research tooling and finance 
 <div align="center">
   <img height="160" src="https://github-readme-stats.vercel.app/api?username=ThinuxBOOM&show_icons=true&theme=transparent&hide_border=true&title_color=37664d&text_color=293b35&icon_color=37664d" />
   <img height="160" src="https://streak-stats.demolab.com?user=ThinuxBOOM&theme=transparent&hide_border=true&ring=37664d&fire=37664d&currStreakLabel=37664d" />
+  <img height="160" src="https://github-readme-stats.vercel.app/api/top-langs/?username=ThinuxBOOM&layout=compact&theme=transparent&hide_border=true&title_color=37664d&text_color=293b35&icon_color=37664d" />
+</div>
+
+<div align="center">
+  <img src="https://komarev.com/ghpvc/?username=ThinuxBOOM&color=37664d&style=flat-square" alt="profile views" />
 </div>
 
 ### Activity
 
-<!-- snake needs .github/workflows/snake.yml in this repo (snippet below) -->
 <div align="center">
   <img src="https://raw.githubusercontent.com/ThinuxBOOM/ThinuxBOOM/output/snake.svg" alt="contribution snake" />
 </div>
