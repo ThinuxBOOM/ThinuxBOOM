@@ -28,11 +28,12 @@ A/L graduate heading into PPE / Economics. I build research tooling and finance 
 
 | Project | What it is |
 |---|---|
-| [Onemarket](https://github.com/ThinuxBOOM/TerminalStockUI) | Research analytics for global markets — screening, backtests, historical viz |
-| [CSE-analysis](https://github.com/ThinuxBOOM/CSE-analysis) | Private research tooling for the Colombo Stock Exchange |
-| [FuturePlanner](https://github.com/ThinuxBOOM) | 5-year goal + budget tracker (Supabase + Cloudflare) — *link your repo here* |
-| [musemobile](https://github.com/ThinuxBOOM/musemobile) / [ios](https://github.com/ThinuxBOOM/musemobile-ios) | Free Spotify wrapper + iOS client |
-| [BetterVencord](https://github.com/ThinuxBOOM/BetterVencord) (+ [mobile](https://github.com/ThinuxBOOM/BetterVencord-mobile)) | Vencord, but better |
+| [BetterVencord](https://github.com/ThinuxBOOM/BetterVencord) | Vencord, but BETTER |
+| [BetterVencord-mobile](https://github.com/ThinuxBOOM/BetterVencord-mobile) | Mobile companion for BetterVencord |
+| [CSE-analysis](https://github.com/ThinuxBOOM/CSE-analysis) | Analyzer and predictor for CSE |
+| [TerminalStockUI](https://github.com/ThinuxBOOM/TerminalStockUI) | Analyzer and predictor for global stock markets — screening, backtests, historical viz |
+| [musemobile](https://github.com/ThinuxBOOM/musemobile) | Free-Spotify-Wrapper |
+| [musemobile-ios](https://github.com/ThinuxBOOM/musemobile-ios) | Free-Spotify-IOS |
 
 ### Stats
 
